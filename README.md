@@ -3,7 +3,7 @@
 Projeto foi realizado com intuito da prática do uso da framework CSS TailwindCSS . 
 
 [Link do document TailwindCSS ](https://tailwindcss.com/docs/installation)
- 
+ <img width="50%" align="right" src="https://cdn.discordapp.com/attachments/838601680404086806/1108089100172533940/Alura_Newsletter_-_Google_Chrome_2023-05-16_14-48-12.gif" />
 # Tecnologias Usadas
   <div display: inline-block>
      <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
